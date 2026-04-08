@@ -1,8 +1,7 @@
 # HEY, I AM VAISHNAVI JAGTAP 👩‍💻✨
 
 ![Typing](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Developer;React+Developer;Backend+Developer)
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=200&section=header&text=Vaishnavi%20Jagtap&fontSize=40&fontColor=ffffff" width="100%" />
 
 > "Every line of code you write is a step closer to your dream."
 
