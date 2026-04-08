@@ -30,12 +30,6 @@
 
 ---
 
-## 📊 GITHUB STATS
-
-![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi-Jagtap21\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 🔥 STREAK STATS
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Vaishnavi-Jagtap21\&theme=tokyonight)
