@@ -42,11 +42,7 @@
 
 ---
 
-## 🌟 TOP LANGUAGES
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Jagtap21&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🚀 PROJECTS
 
