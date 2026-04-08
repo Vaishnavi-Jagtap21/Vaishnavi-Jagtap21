@@ -11,8 +11,7 @@
 ## 👩‍💻 ABOUT ME
 
 🎓 Bachelor in Computer Science
-💻 Frontend Developer
-🚀 Currently learning React & Full Stack Development
+💻 Full Stack Developer
 🎯 Goal: To get placed in a top IT company and build impactful web applications
 
 ---
@@ -24,6 +23,10 @@
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+  
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -42,7 +45,7 @@
 
 ## 🌟 TOP LANGUAGES
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Jagtap21\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Jagtap21&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
