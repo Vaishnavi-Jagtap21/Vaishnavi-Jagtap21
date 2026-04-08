@@ -1,8 +1,8 @@
 # HEY, I AM VAISHNAVI JAGTAP 👩‍💻✨
 
-![Typing](https://readme-typing-svg.herokuapp.com?size=25\&color=00F7FF\&center=true\&vCenter=true\&width=500\&lines=Frontend+Developer;React+Learner;Passionate+Coder)
+![Typing](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Developer;React+Developer;Backend+Developer)
 
-<img src="https://github.com/sarrthak008/sarrthak008/blob/main/KEYBOARD_GIF.gif" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 > "Every line of code you write is a step closer to your dream."
 
