@@ -26,9 +26,10 @@
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" />
 </p>
-
----
 
 ## 🔥 STREAK STATS
 
