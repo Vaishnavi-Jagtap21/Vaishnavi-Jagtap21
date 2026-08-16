@@ -26,7 +26,7 @@
 * Developed and enhanced modules using **HTML, JavaScript, C and TACL**.
 * Worked with **HPE NonStop (Tandem)** environment.
 * Implemented and debugged application functionality and validations.
-* Worked with **RuleBrowse** and related UI/backend modules.
+* Worked on **RuleBrowse** and related UI/backend modules.
 * Used **PuTTY, FileZilla and Linux commands** for development and server-related tasks.
 * Debugged and tested applications in the development environment.
 * Worked on fixing bugs, implementing enhancements, and deploying updated files.
@@ -60,27 +60,27 @@
   <img src="https://img.shields.io/badge/HP%20NonStop%20(Tandem)-333333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TACL-444444?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/PuTTY-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" />
 </p>
-
----
-
-## 🔥 STREAK STATS
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Vaishnavi-Jagtap21\&theme=tokyonight)
 
 ---
 
 ## 📊 GITHUB STATS
 
-![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi-Jagtap21\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Jagtap21&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 💻 MOST USED LANGUAGES
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Jagtap21\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Jagtap21&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
